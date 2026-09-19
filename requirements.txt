@@ -1,1 +1,4 @@
 flet
+flet_charts
+pandas
+numpy
