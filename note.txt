@@ -1,0 +1,7 @@
+date
+month
+year
+clan
+clan_opponent
+mode_selection
+note
